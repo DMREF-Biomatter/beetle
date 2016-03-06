@@ -1,5 +1,5 @@
-# Introduction 
-## Parameter Description
+# Mechanical Stifness of Simplified Beetle Structure
+## Introduction
 This repository contains a brief code to compute the mechanical stiffness of the beetle given the following parameters:
 
 - Thickness of Bilayer 1 (L1)
