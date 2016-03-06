@@ -12,7 +12,7 @@ EBL=((FBL*(1-2*NU1)*(1+NU1)/(E1*(1-NU1))) + ...
 %beetle by accounting for the pillars and the bi-layer as a seprate
 %homogeneous material. Effects of poissons ratio between the pillars and
 %the bi-layer are ignored and numerical simulation has shown little to no
-%effect.
+%effect
 
 FPIL=AROD/(ABL+AROD);
 ETOTAL=FPIL*EPIL+(1-FPIL)*EBL;
